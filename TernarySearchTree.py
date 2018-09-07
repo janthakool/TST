@@ -74,11 +74,11 @@ class UsingTST:
 		
 
 		
-tree = UsingTST('xxx')
-tree.append("datass")
-a = tree.search("xxx")
+tree = UsingTST('NARESUAN')
+tree.append("ENGINEER")
+
 print(tree.show())
-print(a)
+
 
 
 

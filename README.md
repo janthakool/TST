@@ -1,5 +1,5 @@
 # TST
-algorithm I about datastructure 
+My algorithm studying
 
 Thank you for Ref.
 - https://www.geeksforgeeks.org/ternary-search-tree/
